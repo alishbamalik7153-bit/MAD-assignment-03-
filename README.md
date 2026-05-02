@@ -600,6 +600,7 @@ MIT License
 
 
 
+<img width="200" height="200" alt="qrcode_342868311_ed08a3eca4f737c4f5434a4dcde47b47 (1)" src="https://github.com/user-attachments/assets/a2514452-16d7-4171-97ab-1747d91dc948" />
 
 
 
