@@ -1,6 +1,10 @@
 click on this "LINK" to view my all zip files
 
- https://drive.google.com/drive/folders/1S3YMMkdAxoGqlWVUE9yhK27nwqAShwuD?usp=sharinggnment-03-
+ https://drive.google.com/drive/folders/1S3YMMkdAxoGqlWVUE9yhK27nwqAShwuD?usp=sharing
+
+<!-- Animated girl working at computer - moving image -->
+<div align="center">
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/095ac5d4-f2da-4282-b404-cbde04b64efc" />
 
@@ -9,6 +13,11 @@ click on this "LINK" to view my all zip files
 LishayFits is a next-generation mobile e-commerce platform built with **React Native (Expo SDK 55)** and a powerful **Node.js/Express backend**. Designed for a *luxury shopping feel*, it combines smooth animations, intelligent UI, and high-performance architecture.
 
 ![App Mockup](./mock.png)
+
+<!-- Animated GIF for E-Commerce -->
+<div align="center">
+<img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="400" style="border-radius:12px;" alt="E-Commerce shopping animation" />
+</div>
 
  ✨ Enhanced UI/UX Features
 *Redesigned Interface Highlights**
@@ -132,7 +141,8 @@ E-com-app/
 ```bash
 cd backend
 npm install
-node server.js`
+node server.js
+```
 
 ### 📱 Frontend (Expo App)
 
@@ -140,6 +150,7 @@ node server.js`
 cd frontend
 npm install
 npx expo start
+```
 
 ## 🧪 Recommended Scripts Setup
 
@@ -180,12 +191,12 @@ npm install nodemon --save-dev
 ### 1. Home Screen Upgrade
 
 * Add **horizontal scrolling product carousels**
-* Introduce **“For You” AI-based section**
+* Introduce **"For You" AI-based section**
 
 ### 2. Product Screen
 
 * Add **image zoom + swipe gallery**
-* Include **floating “Add to Cart” button**
+* Include **floating "Add to Cart" button**
 * Show **ratings with animated stars**
 
 ### 3. Navigation
@@ -211,10 +222,17 @@ Use:
 
 ISC License
 
+---
 
 TASK #02(FEED APP)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6708625b-b7ff-43d5-8468-31c77051e086" />
+
+<!-- Animated GIF for Feed App -->
+<div align="center">
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" style="border-radius:12px;" alt="Social feed animation" />
+</div>
+
 # Feed App 
 
 # 📱 Social Feed Pro
@@ -228,7 +246,7 @@ A modern, high-performance social feed app built with **React Native (Expo SDK 5
 * **🧭 Smart Feed Layout**: Card-based, layered posts with depth & alternating layouts
 * **🧊 Glassmorphism UI**: Frosted blur cards, gradient borders, transparent nav
 * **🌀 Micro-Interactions**: Like animations, parallax scroll, press feedback
-* **🎯 Smooth Navigation**: Floating “+” button, swipe gestures, animated tabs
+* **🎯 Smooth Navigation**: Floating "+" button, swipe gestures, animated tabs
 * **🎨 Clean Design**: Bold typography, proper spacing, modern hierarchy
 
 ## 📱 Features
@@ -262,16 +280,17 @@ A modern, high-performance social feed app built with **React Native (Expo SDK 5
 
 ## 📂 Structure
 
-```text id="u6d7r8"
+```text
 feed-app/
 ├── frontend/src/{components,screens,navigation,animations,theme}
 └── backend/{server.js,docs}
 ```
+
 ## ⚙️ Run Project
 
 ### Backend
 
-```bash id="2t7d9x"
+```bash
 cd backend
 npm install
 node server.js
@@ -279,7 +298,7 @@ node server.js
 
 ### Frontend
 
-```bash id="9l2kq1"
+```bash
 cd frontend
 npm install
 npx expo start
@@ -287,9 +306,9 @@ npx expo start
 
 ## 🌐 API Setup
 
-```javascript id="k92jd7"
+```javascript
 const BASE_URL = 'http://YOUR_LOCAL_IP:3000';
-
+```
 
 ## 🚀 Quick Improvements
 
@@ -303,10 +322,11 @@ const BASE_URL = 'http://YOUR_LOCAL_IP:3000';
 
 ISC License
 
+---
+
 TASK # 03(FOOD APP)
 
-<img width="1024" height="1536" alt="ChatGPT Image May 5, 2026, 11_13_26 AM" src="https://github.com/user-attachments/assets/8795b3f5-a97c-4dc6-9e77-4ea2ce83becd" />
-<img width="437" height="645" alt="image" src="https://github.com/user-attachments/assets/3d1f08ae-c27a-4f74-8930-d49a0932ceae" />
+<!-- Your real Food App image -->
 
 
 # 🚀 Foreign Delivers - Premium Food Delivery App
@@ -388,7 +408,8 @@ cd frontend
 npm install
 npx expo start
 ```
-📂 Project Structure
+
+## 📂 Project Structure
 
 ```text
 food-delivery-app/
@@ -396,15 +417,23 @@ food-delivery-app/
 ├── backend/
 ├── db/
 └── assets/
+```
 
- 📄 License
+## 📄 License
 
 MIT License
 
+---
+
 TASK#04(MOVIE HUB)
 
+<!-- Your real MovieHub image -->
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/38571720-7c19-47c7-b7b5-d7f37c8b45b0" />
 
+<!-- Animated GIF for MovieHub -->
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" style="border-radius:12px;" alt="Cinema movie animation" />
+</div>
 
 # 🎬 MovieHub - Smart Movie Booking App
 
@@ -482,13 +511,15 @@ MovieHub is a full-stack movie booking application built with **React Native (Ex
 
 ### Backend
 
-```bash id="n1k2x9"
+```bash
 cd backend
 npm install
-node serveer.js
+node server.js
+```
+
 ### Frontend
 
-```bash id="l9q3w7"
+```bash
 cd frontend
 npm install
 npx expo start
@@ -496,23 +527,34 @@ npx expo start
 
 ## 📂 Project Structure
 
-```text id="z8m2v1"
+```text
 moviehub/
 ├── frontend/
 ├── backend/
 └── db/
-
+```
 
 ## 🌐 Configuration
 
-```javascript id="p4t8x2"
+```javascript
 host: 'YOUR_LOCAL_IP'
+```
+
 ## 📄 License
 
 MIT License
 
+---
+
 TASK#05(EXPENSE TRACKER PRO)
+
+<!-- Your real Expense Tracker image -->
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/816d307b-cc31-4a1f-b488-cd847fbcf1cd" />
+
+<!-- Animated GIF for Expense Tracker -->
+<div align="center">
+<img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="400" style="border-radius:12px;" alt="Finance tracker animation" />
+</div>
 
 # 💳 Expense Tracker Pro
 
@@ -542,12 +584,13 @@ TASK#05(EXPENSE TRACKER PRO)
 * **🧭 Simple Navigation**
 
   * Bottom tab navigation
-  * Floating “+ Add Expense” button
+  * Floating "+ Add Expense" button
 
 * **📱 Clean Layout**
 
   * Minimal design with clear data hierarchy
   * Easy-to-read transaction list
+
 ## ✨ Key Features
 
 * **📊 Real-time Dashboard**: Interactive charts and financial overview
@@ -573,20 +616,23 @@ TASK#05(EXPENSE TRACKER PRO)
 
 ### Backend
 
-```bash id="b1x9k2"
+```bash
 cd backend
 npm install
 node server.js
+```
+
 ### Frontend
 
-```bash id="c7m4p8"
+```bash
 cd frontend
 npm install
 npx expo start
 ```
+
 ## 📂 Project Structure
 
-```text id="v9d2s6"
+```text
 expense-tracker-pro/
 ├── frontend/
 ├── backend/
@@ -604,7 +650,3 @@ MIT License
 
 
 <img width="200" height="200" alt="qrcode_342868311_ed08a3eca4f737c4f5434a4dcde47b47 (1)" src="https://github.com/user-attachments/assets/a2514452-16d7-4171-97ab-1747d91dc948" />
-
-
-
-
