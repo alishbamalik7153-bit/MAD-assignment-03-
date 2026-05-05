@@ -4,7 +4,9 @@ click on this "LINK" to view my all zip files
 
 <!-- Animated girl working at computer - moving image -->
 <div align="center">
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Girl coding at computer" />
+&nbsp;&nbsp;
+</div>
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/095ac5d4-f2da-4282-b404-cbde04b64efc" />
 
@@ -239,7 +241,6 @@ TASK #02(FEED APP)
 
 A modern, high-performance social feed app built with **React Native (Expo SDK 55)** and a **Node.js/Express** backend. Designed with a premium UI using **Glassmorphism, smooth animations, and intelligent layouts**.
 
-![App Mockup](./assets/mockup.png)
 
 ## ✨ UI/UX Highlights
 
@@ -326,8 +327,10 @@ ISC License
 
 TASK # 03(FOOD APP)
 
-<!-- Your real Food App image -->
-
+<!-- Animated GIF for Food App -->
+<div align="center">
+<img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif" width="400" style="border-radius:12px;" alt="Food delivery animation" />
+</div>
 
 # 🚀 Foreign Delivers - Premium Food Delivery App
 
