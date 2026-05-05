@@ -305,13 +305,16 @@ ISC License
 
 TASK # 03(FOOD APP)
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1cf8db26-c009-4ce7-98c4-08f4ad50d032" />
+<img width="1024" height="1536" alt="ChatGPT Image May 5, 2026, 11_13_26 AM" src="https://github.com/user-attachments/assets/8795b3f5-a97c-4dc6-9e77-4ea2ce83becd" />
+<img width="437" height="645" alt="image" src="https://github.com/user-attachments/assets/3d1f08ae-c27a-4f74-8930-d49a0932ceae" />
+
 
 # 🚀 Foreign Delivers - Premium Food Delivery App
 
 Foreign Delivers is a full-stack, high-performance food delivery application built with **Expo (React Native)**, **Node.js (Express)**, and **MySQL**. Designed for a **modern, smooth, and visually rich ordering experience**.
 
-![App Mockup](./assets/mockup.png)
+<img width="1024" height="1536" alt="ChatGPT Image May 5, 2026, 11_11_05 AM" src="https://github.com/user-attachments/assets/e5939cdf-2033-4f6e-80d2-ad9e401c2650" />
+
 
 ## ✨ UI/UX Improvements
 
